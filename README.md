@@ -56,4 +56,4 @@ brain-tumor-classification/
 ## Author
 
 **Yuktha**
-Machine Learning & Deep Learning Enthusiast | AI for Healthcare
+*Machine Learning & Deep Learning Enthusiast | AI for Healthcare
